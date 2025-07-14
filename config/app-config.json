@@ -1,7 +1,7 @@
 {
   "version": "1.0.0",
   "api_config": {
-    "base_url": "https://animster.com/wp-json/aatp/v1",
+    "base_url": "https://api.animster.com/wp-json/aatp/v1",
     "backup_urls": [
       "https://api.animster.com/wp-json/aatp/v1"
     ]
