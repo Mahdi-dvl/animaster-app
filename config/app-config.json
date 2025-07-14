@@ -1,5 +1,6 @@
 {
   "version": "1.0.0",
+  "last_updated": "2025-01-14T10:00:00Z",
   "api_config": {
     "base_url": "https://animster.com/wp-json/aatp/v1",
     "backup_urls": [
@@ -9,11 +10,52 @@
   "features": {
     "maintenance_mode": false,
     "force_update": false,
-    "min_app_version": "1.0.0"
+    "min_app_version": "1.0.0",
+    "max_supported_version": "2.0.0"
   },
   "ui_config": {
     "show_ads": true,
     "ad_frequency": 7,
-    "banner_message": ""
+    "banner_message": "",
+    "theme_mode": "dark",
+    "enable_animations": true
+  },
+  "performance_config": {
+    "cache_timeout_seconds": 300,
+    "request_timeout_seconds": 15,
+    "max_retries": 3,
+    "batch_size": 5,
+    "image_cache_size_mb": 50
+  },
+  "experimental_features": {
+    "new_ui": false,
+    "beta_api": false,
+    "debug_mode": false
+  },
+  "regional_config": {
+    "IR": {
+      "api_urls": [
+        "https://animster.com/wp-json/aatp/v1",
+        "https://animster.com/wp-json/aatp/v1"
+      ],
+      "cdn_urls": [
+        "https://animster.com/wp-json/aatp/v1"
+      ],
+      "features": {
+        "show_local_content": true
+      }
+    },
+    "US": {
+      "api_urls": [
+        "https://api.animster.com/wp-json/aatp/v1"
+      ]
+    }
+  },
+  "emergency_config": {
+    "fallback_message": "سرویس موقتاً در دسترس نیست. لطفاً کمی دیگر تلاش کنید.",
+    "support_url": "https://t.me/animasteraa",
+    "alternative_urls": [
+      "https://cdn.jsdelivr.net/gh/animster/config@main/emergency.json"
+    ]
   }
 }
