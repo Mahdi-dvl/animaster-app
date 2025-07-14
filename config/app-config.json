@@ -7,7 +7,7 @@
     ]
   },
   "features": {
-    "maintenance_mode": true
+    "maintenance_mode": false
   },
   "emergency_config": {
     "fallback_message": "سرویس موقتاً در دسترس نیست. لطفاً کمی دیگر تلاش کنید.",
