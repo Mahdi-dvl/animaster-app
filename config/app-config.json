@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "api_config": {
+    "base_url": "https://animster.com/wp-json/aatp/v1",
+    "backup_urls": [
+      "https://api.animster.com/wp-json/aatp/v1",
+    ]
+  },
+  "features": {
+    "maintenance_mode": false,
+    "force_update": false,
+    "min_app_version": "1.0.0"
+  },
+  "ui_config": {
+    "show_ads": true,
+    "ad_frequency": 7,
+    "banner_message": ""
+  }
+}
