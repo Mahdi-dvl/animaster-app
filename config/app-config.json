@@ -14,7 +14,7 @@
     "support_url": "https://t.me/animasteraa"
   },
   "version_control": {
-    "minimum_required_version": "1.0.0",
+    "minimum_required_version": "1.1.0",
     "download_url": "https://animster.com/app",
     "update_message": "نسخه جدید انیمستر منتشر شد! می‌خواهید الان اپدیت کنید؟",
     "force_update_message": "نسخه اپ شما قدیمی است. برای ادامه استفاده، لطفاً اپلیکیشن را اپدیت کنید.",
