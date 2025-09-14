@@ -4,7 +4,8 @@
     "base_url": "https://animster.com/wp-json/aatp/v1",
     "backup_urls": [
       "https://animster.com/wp-json/aatp/v1"
-    ]
+    ],
+    "token_endpoint": "/mulitact/apiii/tak.php"
   },
   "features": {
     "maintenance_mode": false
