@@ -8,7 +8,7 @@
     "token_endpoint": "/mulitact/apiii/tak.php"
   },
   "features": {
-    "maintenance_mode": false
+    "maintenance_mode": true
   },
   "emergency_config": {
     "fallback_message": "سرویس موقتاً در دسترس نیست. لطفاً کمی دیگر تلاش کنید.",
