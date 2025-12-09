@@ -22,7 +22,7 @@
     "check_interval_hours": 24
   },
   "windows_version_control": {
-    "version": "1.0.1",
+    "version": "1.0.0",
     "minimum_required_version": "1.0.0",
     "installer_url": "https://dl3.tvmaster.top/AnimasterApp/windows/update/INSTALLER.msix",
     "update_message": "نسخه جدید برای ویندوز در دسترس است! دوست دارید همین الان نصب کنید؟",
