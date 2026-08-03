@@ -1,9 +1,9 @@
 {
   "version": "2.1.0",
   "api_config": {
-    "base_url": "https://animya.tvmaster.top/wp-json/aatp/v1",
+    "base_url": "https://animya.tvmaster.top/app/wp-json/aatp/v1",
     "backup_urls": [
-      "https://animster.com/wp-json/aatp/v1"
+      "https://animya.tvmaster.top/app/wp-json/aatp/v1"
     ],
     "token_endpoint": "/mulitact/apiii/tak.php"
   },
