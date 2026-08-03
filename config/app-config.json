@@ -5,7 +5,7 @@
     "backup_urls": [
       "https://animya.tvmaster.top/app/wp-json/aatp/v1"
     ],
-    "token_endpoint": "/mulitact/apiii/tak.php"
+    "token_endpoint": "/app/mulitact/apiii/tak.php"
   },
   "features": {
     "maintenance_mode": false,
